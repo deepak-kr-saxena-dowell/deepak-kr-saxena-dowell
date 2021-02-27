@@ -5,12 +5,12 @@
 
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=deepz-tech" alt="deepzsenu" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=deepak-kr-saxena-dowell" alt="deepzsenu" /> </p>
 
 <table>
   <tr>
     <td><h3>You are Visitor: </h3></td>
-    <td><img src="https://profile-counter.glitch.me/deepz-tech/count.svg" alt="vistor count" height="40" /></td>
+    <td><img src="https://profile-counter.glitch.me/deepak-kr-saxena-dowell/count.svg" alt="vistor count" height="40" /></td>
   </tr>
 </table>
 
@@ -31,16 +31,16 @@
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepz-tech&layout=compact&hide=html&theme=radical" alt="deepz-tech" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepz-tech&theme=dark&hide_langs_below=1" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepz-tech&show_icons=true&theme=radical" alt="deepz-tech" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-kr-saxena-dowell&layout=compact&hide=html&theme=radical" alt="deepak-kr-saxena-dowell" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-kr-saxena-dowell&theme=dark&hide_langs_below=1" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak-kr-saxena-dowell&show_icons=true&theme=radical" alt="deepak-kr-saxena-dowell" />
 </p>
 
 <p align="center">
 <a href="https://instagram.com/deepzsenu3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="theshadowof_a_tear" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/deepzsenu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="subhayuroy" height="40" width="40" /></a>
-<a href="https://www.kaggle.com/deepzsenu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="deepzsenu" height="40" width="40" /></a>
-<a href="https://twitter.com/deepzsenu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="deepzsenu" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/deepak-kr-saxena-dowell/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="subhayuroy" height="40" width="40" /></a>
+<a href="https://www.kaggle.com/deepak-kr-saxena-dowell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="deepzsenu" height="40" width="40" /></a>
+<a href="https://twitter.com/deepak-kr-saxena-dowell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="deepzsenu" height="40" width="40" /></a>
 </p>
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/hackcoderr.gif?z=6)](https://github4life.herokuapp.com/deepz-tech)
+[![GitHub Game of Life](https://github4life.herokuapp.com/hackcoderr.gif?z=6)](https://github4life.herokuapp.com/deepak-kr-saxena-dowell)
